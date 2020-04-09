@@ -1,0 +1,60 @@
+body {
+ background-image: url("../img/legno.jpg");
+}
+.mainwrapper {
+  width: 50%;
+  margin: 0px auto;
+}
+
+/*regole generali */
+.topheader {
+  color: white;
+}
+.header img {
+  height: 105px;
+  vertical-align: middle;
+}
+.header span {
+  height: 105px;
+  font-size: 26px;
+}
+.eze {
+  margin-top: 0px;
+}
+.unread {
+  font-size: 28px;
+  line-height: 0px;
+}
+.number {
+  background-color: orange;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+
+ /*fine testa*/
+
+ /*contenuto*/
+.contenuto .email {
+  border: 1px solid black;
+  padding: 1px;
+  background: #c0c0c0;
+}
+.oggetto {
+  color: black;
+}
+.star {
+  color: black;
+}
+.testo {
+  color: grey;
+}
+
+.contenuto div.email-read {
+  border: 1px solid black;
+  padding:1px;
+  background: white;
+}
